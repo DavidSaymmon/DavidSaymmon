@@ -3,7 +3,7 @@ fascinado em entender o funcionamento das tecnologias que uso e desenvolver solu
 
 <div style="display: inline-block">
 <br>
-💻 Minha Stack
+💻 Tecnologias:
 <hr>
     <img src="https://skillicons.dev/icons?i=java,js,ts,angular,css,react,html,linux,mysql,postgres,docker,spring,eclipse,vscode,github,git">
 </div>
