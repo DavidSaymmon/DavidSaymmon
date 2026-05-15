@@ -1,5 +1,5 @@
 **Full Stack Developer**, graduando em ciência da computação (6º período) 
-fascinado em entender o funcionamento das tecnologias que uso e desenvolver soluções otimas com elas :) 
+fascinado em entender o funcionamento das tecnologias que uso e desenvolver soluções ótimas com elas :) 
 
 <div style="display: inline-block">
 <br>
