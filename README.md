@@ -1,4 +1,4 @@
-**Full Stack Developer** Sou um developer full-stack, graduando em ciência da computação (6º período) 
+**Full Stack Developer**, graduando em ciência da computação (6º período) 
 fascinado em entender o funcionamento das tecnologias que uso e desenvolver soluções otimas com elas :) 
 
 <div style="display: inline-block">
