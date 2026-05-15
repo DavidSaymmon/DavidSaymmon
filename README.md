@@ -14,6 +14,5 @@ fascinado em entender o funcionamento das tecnologias que uso e desenvolver solu
 <hr>
  📫 Contato
 <hr>
-<a href="mailto:sawewfelipe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/david-saymmon-99b426279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sawewfelipe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://www.linkedin.com/in/david-saymmon-99b426279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 </div>
