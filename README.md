@@ -1,7 +1,8 @@
-**Full Stack Developer**  <div style="display: inline_block"><br>
+**Full Stack Developer** <div style="display: inline_block">
+<br>
 💻 Minha Stack
 <hr>
-    <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,angular,css,react,html,linux,mysql,postgres,docker,spring,eclipse,vscode,github,git"
+    <img src="https://skillicons.dev/icons?i=java,js,ts,angular,css,react,html,linux,mysql,postgres,docker,spring,eclipse,vscode,github,git"
 </div>
 <div> 
 <hr>
