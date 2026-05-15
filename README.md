@@ -1,6 +1,7 @@
 **Full Stack Developer** 
 
-Sou um developer full-stack, e Graduando em ciência da computação (6º período) fascinado em entender o funcionamento das tecnologias que uso e desenvolver soluções úteis e otimizadas com elas :) <div style="display: inline_block">
+Sou um developer full-stack, e Graduando em ciência da computação (6º período) 
+fascinado em entender o funcionamento das tecnologias que uso e desenvolver soluções úteis e otimizadas com elas :) <div style="display: inline_block">
 <br>
 💻 Minha Stack
 <hr>
